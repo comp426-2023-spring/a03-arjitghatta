@@ -1,7 +1,7 @@
 {
     "name": "node-rpsls",
     "version": "1.0.0",
-    "description": "This is a module-based command line Node.js package.",
+    "description": "module-based command line Node.js package",
     "main": "./lib/rpsls.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
